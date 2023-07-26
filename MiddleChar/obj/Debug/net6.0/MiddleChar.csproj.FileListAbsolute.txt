@@ -1,0 +1,15 @@
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\bin\Debug\net6.0\MiddleChar.exe
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\bin\Debug\net6.0\MiddleChar.deps.json
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\bin\Debug\net6.0\MiddleChar.runtimeconfig.json
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\bin\Debug\net6.0\MiddleChar.dll
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\bin\Debug\net6.0\MiddleChar.pdb
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.csproj.AssemblyReference.cache
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.AssemblyInfoInputs.cache
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.AssemblyInfo.cs
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.csproj.CoreCompileInputs.cache
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.dll
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\refint\MiddleChar.dll
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.pdb
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\MiddleChar.genruntimeconfig.cache
+D:\MiddleCharacter\MiddleCharacter\MiddleChar\obj\Debug\net6.0\ref\MiddleChar.dll
